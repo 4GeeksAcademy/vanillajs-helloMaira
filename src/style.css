@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-image: url("https://optimainfinito.com/wp-content/uploads/2020/10/hombre-disculpandose-como-ejemplo-de-la-gran-diferencia-entre-motivo-y-excusa-850x0-c-default.jpg");
+    background-size: cover;
+}
+#excuse {
+    font-family:'Lucida Sans Unicode';
+    font-size:xx-large;
+    margin: 0 auto;
+    width:max-content;
+    padding-top: 300px;
+    color:purple;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
 }
